@@ -1,4 +1,4 @@
-#  User Profile Management API
+#  User Profile Management
 
 This is a Node.js backend with basic user profile management system using JWT, bcryptjs, and MongoDB.
 
